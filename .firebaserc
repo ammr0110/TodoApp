@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angular-todolistapp": {
+      "hosting": {
+        "TodoApp": [
+          "angular-todolistapp"
+        ]
+      }
+    }
+  }
+}
